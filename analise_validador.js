@@ -67,4 +67,3 @@ function validacao(){ // função que comunica com o DOM
     console.log('error!') // comunica erro
   }
 }
-validacao()
